@@ -1,6 +1,6 @@
 <h1 align="center">Herkese Selam , Ben Drake <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> <p align="center">
 <p align="center">
-2016'dan Beri Discord Kullanıyor , 2018'dan Beri JavaScript ile Uğraşıyorum. <br>
+2016'dan Beri Discord Kullanıyor , 2018'den Beri JavaScript ile Uğraşıyorum. <br>
 </p>
 
 ### Kullandığım Programlar Ve Yazılım Dilleri :
